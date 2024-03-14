@@ -1,13 +1,35 @@
 /*cabeçalho*/
-
+header img {
+    height: 70px;
+    width: 70px;
+}
 
 /*Conteudo principal*/
 
+main {
+    min-height: 500px;
+}
 
 /*banner*/
+#section-banners img {
+    height: 500px;
+}
+
+
 
 /*Produtos vendidos*/
+
 /*Rodapé*/
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
+
+
 
 /*Botão Voltar topo*/
 
